@@ -223,6 +223,7 @@ h1{
   transition-delay: 50ms;
 }
 .nav ul li a{
+  text-decoration: none;
   font-family: 'Montserrat', sans-serif;
   font-size: 9vh;
   text-transform: uppercase;
